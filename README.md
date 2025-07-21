@@ -17,3 +17,7 @@ ninja aseprite
 and after that go to "C:\aseprite\build\bin"
 
 copy 'data' and 'aseprite.exe' to clean folder when you want
+
+# Linux
+
+https://tsredanovic.github.io/blog/build-aseprite-from-source-on-linux/
