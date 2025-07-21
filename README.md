@@ -11,6 +11,9 @@ cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo -DLAF_BACKEND=skia -DSKIA_DIR=C:\deps\sk
 
 ninja aseprite
 
+and second: To fix error with .exe
+ninja aseprite
+
 and after that go to "C:\aseprite\build\bin"
 
 copy 'data' and 'aseprite.exe' to clean folder when you want
