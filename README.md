@@ -1,7 +1,7 @@
 # freeseprite
 
 
-# Windows
+# Windows (https://www.youtube.com/watch?v=82TIDyKjxuE)
 
 call "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\VsDevCmd.bat" -arch=x64
 
